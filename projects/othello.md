@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/OthelloUpdated.jpg
+image: img/vacay/OthelloUpdated.jpg
 title: "Othello"
 date: 2017
 published: true
