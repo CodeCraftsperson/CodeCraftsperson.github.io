@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/micromouse/micromouse-square.jpg
+image: img/OthelloUpdated.jpg
 title: "Othello"
 date: 2017
 published: true
@@ -22,16 +22,4 @@ During my senior in highschool, we formed groups with each group having a unique
 
 The scriptwriting, editing, and directing were managed by me but tweaked a bit from my group and published and presented in class in about 5 days time. One thing to note, we added a bit of silly things that occur in the scenes, but dont mind them, as some of our friends outside our group were a little bored. 
 
-```cpp
-byte ADCRead(byte ch)
-{
-    word value;
-    ADC1SC1 = ch;
-    while (ADC1SC1_COCO != 1)
-    {   // wait until ADC conversion is completed   
-    }
-    return ADC1RL;  // lower 8-bit value out of 10-bit data from the ADC
-}
-```
-
-You can learn more at the [UH Micromouse News Announcement](https://manoa.hawaii.edu/news/article.php?aId=2857).
+Dive in and watch the video! https://www.youtube.com/watch?v=RwJQhmDXETE&t=210s
