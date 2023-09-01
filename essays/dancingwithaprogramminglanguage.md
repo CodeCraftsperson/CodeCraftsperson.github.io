@@ -6,7 +6,9 @@ title: "Dancing with a programming language?"
 date: 2023-08-30
 published: true
 labels:
-  - Engineering
+  - Software Engineering
+  - Javascript
+  - Learning
 ---
 
 ## Dancing with Javascript
