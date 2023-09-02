@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/micromouse/genshinimpactTNR.jpg
+image: img/micromouse/genshinimpactThumbnail.jpg
 title: "Genshin impact character select website"
 date: 2022
 published: true
