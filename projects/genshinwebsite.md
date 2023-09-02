@@ -24,6 +24,6 @@ summary: "I developed a website that shows a list of characters from genshin imp
   <img width="800px" src="../img/micromouse/genshinwebsite3.png" class="img-thumbnail" >
 </div>
 
-As you scroll over character boxes, the font dissapates and the silhouettes come to life. The respective character show accompanied by their element type as their background. You get to see all different types of characters and there elements all seperated by their own region. So far I've only covered two regions. 
+As you scroll over character boxes, the font dissapates and the silhouettes come to life. The respective character shows and is accompanied by their element type as their background. You get to see all different types of characters and there elements all seperated by their own region. So far I've only covered two regions. 
 
 This website was not officially launched.
