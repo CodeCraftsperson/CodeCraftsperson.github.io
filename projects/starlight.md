@@ -9,7 +9,7 @@ labels:
   - Lyrics
   - Youtube
   - Hitfilm express
-summary: "I created a lyric video for song called Starlight from Starset"
+summary: "I created a lyric video for a song called Starlight from Starset"
 ---
 
 <div class="text-center p-4">
