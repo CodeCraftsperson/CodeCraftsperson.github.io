@@ -13,8 +13,8 @@ summary: "My team developed a robotic mouse that won first place in the 2015 UH 
 ---
 
 <div class="text-center p-4">
-  <img width="500px" src="../img/micromouse/genshinwebsite1.png" class="img-thumbnail" >
-  <img width="200px" src="../img/micromouse/micromouse-robot-2.jpg" class="img-thumbnail" >
+  <img width="1000px" src="../img/micromouse/genshinwebsite1.png" class="img-thumbnail" >
+  <img width="1000px" src="../img/micromouse/genshinwebsite2.png" class="img-thumbnail" >
   <img width="200px" src="../img/micromouse/micromouse-circuit.png" class="img-thumbnail" >
 </div>
 
