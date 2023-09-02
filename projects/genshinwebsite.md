@@ -2,14 +2,15 @@
 layout: project
 type: project
 image: img/micromouse/micromouse-square.jpg
-title: "Micromouse"
+title: "Genshin impact character select website"
 date: 2015
 published: true
 labels:
-  - Robotics
-  - Arduino
-  - C++
-summary: "My team developed a robotic mouse that won first place in the 2015 UH Micromouse competition."
+  - Front-End development
+  - HTML
+  - CSS
+  - Javascript
+summary: "I developed a website that shows a list of characters from genshin impact, organized into their regions."
 ---
 
 <div class="text-center p-4">
