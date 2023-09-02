@@ -1,8 +1,8 @@
 ---
 layout: project
 type: project
-image: img/vacay/OthelloUpdated.jpg
-title: "Othello"
+image: img/vacay/OthelloTN.jpg
+title: "Othello reenactment"
 date: 2017
 published: true
 labels:
@@ -13,9 +13,8 @@ summary: "My team helped reenact a scene in Othello by William Shakespeare but i
 ---
 
 <div class="text-center p-4">
-  <img width="200px" src="../img/micromouse/micromouse-robot.png" class="img-thumbnail" >
-  <img width="200px" src="../img/micromouse/micromouse-robot-2.jpg" class="img-thumbnail" >
-  <img width="200px" src="../img/micromouse/micromouse-circuit.png" class="img-thumbnail" >
+  <img width="500px" src="../img/micromouse/othello1.png" class="img-thumbnail" >
+  <img width="500px" src="../img/micromouse/othello2.png" class="img-thumbnail" >
 </div>
 
 During my senior in highschool, we formed groups with each group having a unique scene that they have to reenact in Othello. Our group had the opportunity to do the very first scene that would occur in Othello, although with a little twist; both the setting, acting, and language does not take on the form of early modern english, but rather todays modern times. What would be castles in the original script, would be houses in ours. What would be horses, would be cars. Even the language changes from traditional middle english to todays modern english we are used too. 
