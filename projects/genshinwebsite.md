@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/micromouse/micromouse-square.jpg
+image: img/micromouse/genshinimpact1.png
 title: "Genshin impact character select website"
 date: 2015
 published: true
@@ -17,14 +17,13 @@ summary: "I developed a website that shows a list of characters from genshin imp
   <img width="800px" src="../img/micromouse/genshinwebsite1.png" class="img-thumbnail" >
 </div>
 
-This website features characters from the gacha game called "Genshin Impact". The links above are functional which takes you to the official Genshin impact website. On the top left, it also toggles music that also derives from the game. All this was done by linking HMTL, CSS, and Javascript together without use of a framework using visual studio code as an IDE. I've also customized a bit of the scroll bar as well to make it brown and a little rounded.
+  This website features characters from the gacha game called "Genshin Impact". The links above are functional which takes you to the official Genshin impact website. On the top left, it also toggles music that also derives from the game. All this was done by linking HMTL, CSS, and Javascript together without use of a framework using visual studio code as an IDE. I've also customized a bit of the scroll bar as well to make it brown and a little rounded.
 
 <div class="text-center p-4">
   <img width="800px" src="../img/micromouse/genshinwebsite2.png" class="img-thumbnail" >
   <img width="800px" src="../img/micromouse/genshinwebsite3.png" class="img-thumbnail" >
 </div>
 
-testing2
+As you scroll over character boxes, the font dissapates and the silhouettes come to life. The respective character show accompanied by their element type as their background. You get to see all different types of characters and there elements all seperated by their own region. So far I've only covered two regions. 
 
-
-You can learn more at the [UH Micromouse News Announcement](https://manoa.hawaii.edu/news/article.php?aId=2857).
+This website was not officially launched.
