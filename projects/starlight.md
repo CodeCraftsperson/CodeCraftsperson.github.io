@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: ../img/micromouse/starlightTN.jpg
+image: ../img/micromouse/starlightTNR.jpg
 title: "Starlight lyric video"
 date: 2019
 published: true
