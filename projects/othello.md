@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/vacay/OthelloTN.jpg
+image: img/micromouse/othelloTN.jpg
 title: "Othello reenactment"
 date: 2017
 published: true
