@@ -3,7 +3,7 @@ layout: project
 type: project
 image: img/micromouse/genshinimpact1.png
 title: "Genshin impact character select website"
-date: 2015
+date: 2022
 published: true
 labels:
   - Front-End development
