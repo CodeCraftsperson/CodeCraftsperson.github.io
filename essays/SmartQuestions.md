@@ -18,15 +18,17 @@ As you get past the authors post, comes the replies. The replies you get at this
 
 Here is the link to the smart question: [Stack Overflow](https://stackoverflow.com/questions/1335851/what-does-use-strict-do-in-javascript-and-what-is-the-reasoning-behind-it)
 
+## Does the world end if you dont know how to ask smart questions?
+Of course not! Although it might as well be if you continue to ask questions that want to pull many software engineers hair out and give them cluster migraines. Lets not have one of the many building blocks of our society to spiral into despair and hopelessness at the sight of your questions. Just kidding, just kidding!
 
+Failure to recognize what constitutes to a smart question in the software engineering world means you may be better off not asking questions at all. If you don't ask smart questions on forums such as Stack Overflow, you risk encountering several negative consequences. Your question may receive downvotes or even be closed by the community if it lacks clarity, relevance, or demonstrates a lack of effort in researching the issue independently. In turn, this can deter potential responders from providing assistance, leaving your problem unresolved. Moreover, asking vague or poorly structured questions can lead to misunderstandings, resulting in wasted time for both you and those trying to help. Additionally, you might miss out on valuable learning opportunities and fail to establish a positive reputation within the Stack Overflow community. Asking smart questions, on the other hand, fosters constructive interactions, increases the likelihood of receiving helpful answers, and contributes to a more supportive and collaborative online programming community.
 
+One example of a question that lacks precedence of what it means to be a smart question can be found in Stack overflow. One I have came across is the question "Javascript Game Betting"... Yeah that does not sound like a question. Stack Overflow headlines should be used to tell the reader at a glance what problem needs to be solved or question to be answered, the headline does not tell you that. It makes you wonder what they may ask, but at that point, you might not feel like even clicking on this page because it seems like the author has placed minimal effort just by reading the headline. When we do decide to see what the fuss is about, we get to see a few lines of code with a vague explanation of "Ive also tried passing the code through another variable but it doesn't seem to work either". There is no part in this post that tells us what exactly he is trying to figure out, and gives us the responsibility to determine what hes trying to ask while also hoping that we are giving the right answer to the question we think they are asking. This ultimately wastes time and could be accompanied by poor effort responses as well. One responder states immediately that "Your question is pretty confusing, but apparently you're trying to remove the bet's value in the bank." The responder makes an educated guess on what the problem the author wants to be solved and possibly could give an answer that may not be relevant to the authors problem at all. Although it seems that they gave a reponse with a proper solution, we are not sure if it the correct solution to the imaginary problem we think we are supposed to solve, all because the author wasn't precise on what he wants to be solve.
 
+Here is the link to the "unsmart" question: [Stack Overflow](https://stackoverflow.com/questions/28633264/javascript-game-betting)
 
-## In the context of engineering
+## Save the world, ask smart questions
 
-
-
-## In the context of relationships
 
 
 
