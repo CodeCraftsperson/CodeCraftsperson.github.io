@@ -24,4 +24,4 @@ The scriptwriting, editing, and directing were managed by me but tweaked a bit f
 
 In my novice experience with script writing and acting, I've learned that script writing is about structuring stories effectively and revising diligently. Acting involves understanding characters deeply and collaborating closely with fellow actors and colleagues. Both demand dedication and the ability to learn from mistakes, ultimately emphasizing the transformative power of storytelling and performance.
 
-Dive in and watch the video! <a href="https//www.youtube.com/watch?v=RwJQhmDXETE&t=119s">Othello</a>
+Dive in and watch the video! [Othello](https://www.youtube.com/watch?v=RwJQhmDXETE&t=119s)
