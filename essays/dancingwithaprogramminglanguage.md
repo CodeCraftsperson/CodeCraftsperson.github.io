@@ -11,7 +11,7 @@ labels:
   - Learning
 ---
 
-## Dancing with Javascript
+## Dancing with Javascript <img width="200px" class="rounded float-start pe-4" src="../img/difficulty/dancingcoding.jpg">
 
 Javascript, oh what a whirlwind of a programming language! Having ventured into this realm, I find myself in a lively tango with this dynamic script. My journey began with building an interactive website that gives users an opportunity to explore and engage, a dance of buttons, functionality, and animations choreographed to perfection. Although I’ve yet to master our dance, each performance leaves me wanting more. I’ve heard about ES6. Our dance was short, but I'll learn to master each step, such as the ones that came before you.
 
