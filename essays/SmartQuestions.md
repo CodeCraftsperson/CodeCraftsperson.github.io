@@ -19,7 +19,7 @@ As you get past the authors post, comes the replies. The replies you get at this
 
 Here is the link to the smart question: [Stack Overflow](https://stackoverflow.com/questions/1335851/what-does-use-strict-do-in-javascript-and-what-is-the-reasoning-behind-it)
 
-## Does the world end if you dont know how to ask smart questions?
+## Does the world end if you dont know how to ask smart questions? <img width="200px" class="rounded float-start pe-4" src="../img/difficulty/worldending.jpg">
 Of course not! Although it might as well be if you continue to ask questions that would entice many software engineers to pull their hair out and give them cluster migraines. SO lets make sure to not have one of the many building blocks of our society to spiral into despair and hopelessness at the sight of your questions. Just kidding, just kidding!
 
 Failure to recognize what constitutes to a smart question in the software engineering world means you may be better off not asking questions at all. If you don't ask smart questions on forums such as Stack Overflow, you risk encountering several negative consequences. Your question may receive downvotes or even be closed by the community if it lacks clarity, relevance, or demonstrates a lack of effort in researching the issue independently. In turn, this can deter potential responders from providing assistance, leaving your problem unresolved. Moreover, asking vague or poorly structured questions can lead to misunderstandings, resulting in wasted time for both you and those trying to help. Additionally, you might miss out on valuable learning opportunities and fail to establish a positive reputation within the Stack Overflow community. Asking smart questions, on the other hand, fosters constructive interactions, increases the likelihood of receiving helpful answers, and contributes to a more supportive and collaborative online programming community.
@@ -28,5 +28,5 @@ One example of a question that lacks precedence of what it means to be a smart q
 
 Here is the link to the "unsmart" question: [Stack Overflow](https://stackoverflow.com/questions/28633264/javascript-game-betting)
 
-## Save the world, ask smart questions.
+## Save the world, ask smart questions. <img width="200px" class="rounded float-start pe-4" src="../img/difficulty/savetheworld.jpg">
 Asking smart questions in software engineering matters because it not only helps in solving immediate problems efficiently but also provides valuable insights into the underlying principles and best practices. Through smart questioning, I gained a deeper understanding of the software development process, uncovered how innovative solutions are found through great questioning, and honed my critical thinking skills. It is another weapon added to my arsenal to continuously improve as a software engineer by learning from others, addressing complex issues effectively, and contributing to a culture of knowledge sharing and collaboration within the software engineering community.
