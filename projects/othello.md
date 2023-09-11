@@ -21,4 +21,4 @@ During my senior year in highschool, we formed groups with each group having a u
 
 The scriptwriting, editing, and directing were managed by me but tweaked a bit from my group and published and presented in class in about 5 days time. One thing to note, we added a bit of silly things that occur in the scenes, but dont mind them, as some of our friends outside our group were a little bored.
 
-Dive in and watch the video! https://www.youtube.com/watch?v=RwJQhmDXETE&t=210s
+Dive in and watch the video! [https://www.youtube.com/watch?v=RwJQhmDXETE&t=119s]
