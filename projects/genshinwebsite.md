@@ -17,7 +17,7 @@ summary: "I developed a website that shows a list of characters from Genshin Imp
   <img width="800px" src="../img/micromouse/genshinwebsite1.png" class="img-thumbnail" >
 </div>
 
-  This website features characters from the gacha game called "Genshin Impact". The links above are functional which takes you to the official Genshin Impact website. On the top left, it also toggles music that also derives from the game. All this was done by linking HMTL, CSS, and Javascript together without use of a framework using visual studio code as an IDE. I've also customized a bit of the scroll bar as well to make it brown and a little rounded.
+  This website features characters from the gacha game called "Genshin Impact". The links above are functional which takes you to the official Genshin Impact website. On the top left, it also toggles music that also derives from the game. All this was done by linking HMTL, CSS, and Javascript together without use of a framework using Visual Studio Code as an IDE. I've also customized a bit of the scroll bar as well to make it brown and a little rounded.
 
 <div class="text-center p-4">
   <img width="800px" src="../img/micromouse/genshinwebsite2.png" class="img-thumbnail" >
