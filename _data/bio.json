@@ -11,8 +11,6 @@
     "profiles": [
       { "network": "github", "username": "CodeCraftsperson", "url": "http://github.com/CodeCraftsperson" },
       { "network": "linkedin", "username": "Gerald Matthew Huff", "url": "www.linkedin.com/in/gerald-matthew-huff-344469272" },
-      { "network": "twitter", "username": "", "url": "" },
-      { "network": "instagram", "username": "", "url": "" }
     ]
   },
   "interests": [
