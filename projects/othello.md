@@ -21,4 +21,7 @@ During my senior year in highschool, we formed groups with each group having a u
 
 The scriptwriting, editing, and directing were managed by me but tweaked a bit from my group and published and presented in class in about 5 days time. One thing to note, we added a bit of silly things that occur in the scenes, but dont mind them, as some of our friends outside our group were a little bored.
 
+
+In my novice experience with script writing and acting, I've learned that script writing is about structuring stories effectively and revising diligently. Acting involves understanding characters deeply and collaborating closely with fellow actors and colleagues. Both demand dedication and the ability to learn from mistakes, ultimately emphasizing the transformative power of storytelling and performance.
+
 Dive in and watch the video! <a href="https//www.youtube.com/watch?v=RwJQhmDXETE&t=119s">Othello</a>
