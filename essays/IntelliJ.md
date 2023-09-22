@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "IntelliJ or not to IntelliJ"
+title: "IntelliJ or not to IntelliJ..."
 # All dates must be YYYY-MM-DD format!
 date: 2023-09-21
 published: true
