@@ -19,7 +19,7 @@ Using ESLint with IntelliJ is like having a coding buddy who's a neat freak. It'
 
 ## Intellij versus VSCode <img width="200px" class="rounded float-start pe-4" src="../img/difficulty/boxing.jpg">
 
-In my experience, IntelliJ takes the lead when comparing it to VSCode. While VSCode is undoubtedly a popular and versatile code editor, IntelliJ's strength lies in its Integrated Development Environment (IDE). IntelliJ offers a more holistic approach to software development with its powerful code analysis, debugging capabilities, and deep integration with various languages and frameworks. This makes it exceptionally well-suited for larger and more complex projects. While VSCode's lightweight nature and extensive library of extensions cater to many developers such as myself, IntelliJ's comprehensive toolset and streamlined workflow seems to provide a more efficient and productive coding experience. 
+In my experience, IntelliJ takes the lead when comparing it to VSCode. While VSCode is undoubtedly a popular and versatile code editor, IntelliJ's strength lies in its Integrated Development Environment (IDE). IntelliJ offers a more holistic approach to software development with its powerful code analysis, debugging capabilities, and deep integration with various languages and frameworks. This makes it exceptionally well-suited for larger and more complex projects. While VSCode's lightweight nature and extensive library of extensions cater to many developers such as myself, IntelliJ's vast toolset and workflow seems to provide a more efficient and productive coding experience. 
 
 ## IntelliJ is intelligent <img width="200px" class="rounded float-start pe-4" src="../img/difficulty/intellij.png">
 
