@@ -25,7 +25,7 @@ The main AI tool I've used for Software Engineering is ChatGPT. ChatGPT is desig
 3. In-class WODs
 - I've used ChatGPT on the final WOD. For the question "If the subscription is not ready, then what might happen when line 20 is executed?", where I copy and pasted both this quote and the code that was provided in the prompt. ChatGPT was able to accurately determine what would happen when line 20 is executed given the condition. From there, I understood what would happen, and was able to put what was outputted on the console into the document from my own understanding.
 4. Essays
-
+- I would use ChatGPT for some essays where I cant fill the gap in my mind for formulating words. Since ChatGPT typically likes to use many vocabulary words, I usually incorporate those words into my own essay on certain subjects.
 5. Final project
 - I currently have not used any AI tools for the final project. Since I use in-class videos that are typically used in WODS which typically help me in doing the work, I didnt use AI as of yet.  
 6. Learning a concept / tutorial
@@ -37,10 +37,15 @@ The main AI tool I've used for Software Engineering is ChatGPT. ChatGPT is desig
 9. Coding example e.g. “give an example of using Underscore .pluck”
 - I've used ChatGPT for one of the "Five problems every software engineer should be able to solve" where the problem was to write a function that computes the list of the first 100 Fibonacci numbers. I've literally copy and pasted this text in ChatGPT: "Write a function that computes the list of the first 100 Fibonacci numbers. By definition, the first two numbers in the Fibonacci sequence are 0 and 1, and each subsequent number is the sum of the previous two. As an example, here are the first 10 Fibonnaci numbers: 0, 1, 1, 2, 3, 5, 8, 13, 21, and 34." where ChatGPT was able to output the code in Javascript. From there, I understood the code and implemented into my assignment.
 10. Explaining code
+- I've used ChatGPT to search up certain terms that would appear in our meteor application template such as "async" or "await" and how it is used in our code. More specifically, when doing our test cafe, I would search up what "await navBar.gotoSignInPage(testController);" would do specifically, where ChatGPT was able to provide proper explanation for me to understand.
 11. Writing code
+- Same as #9, I used ChatGPT for one of the "Five problems every software engineer should be able to solve". It was able to show the actual code to write a fibonacci of the first 100 numbers within a function.
 12. Documenting code
+- I have not used AI for documenting code. I typically do simple comments to explain what certain code blocks do, but not to the point where I thought using AI would be necessary.
 13. Quality assurance e.g. “What’s wrong with this code <code here>” or “Fix the ESLint errors in <code here>”
+- I would paste ERROR blocks that would be found when doing meteor npm run start or meteor npm install. Some of the solutions they provided I have tried but did not work in my case. I had to email a professor about the occasion, to which they were able to provide a solution.  
 14. Other uses in ICS 314 not listed
+- I would use ChatGPT for many miscallenous things such as "Create a list of 10 things I need that are essential for traveling?" or "What are the pros and cons of both Arrays and linked lists?" or "Whats the difference between whey protein and whey isolate?". ChatGPT is such an invaluable resource that provide solutions to many different things that would make life more convenient.
 
 ## Impact on Learning and Understanding <img width="200px" class="rounded float-start pe-4" src="../img/difficulty/athletic.jpg">
 
