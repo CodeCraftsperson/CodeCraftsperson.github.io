@@ -11,13 +11,13 @@ labels:
   - Learning
 ---
 
-## Introduction <img width="200px" class="rounded float-start pe-4" src="../img/difficulty/dancingcoding.jpg">
+## Introduction <img width="200px" class="rounded float-start pe-4" src="../img/difficulty/ai.jpg">
 Artificial Intelligence (AI) transformed the various industries forever. Its impact on education, functionality, and efficiency across many different industries proves substantial. In the realm of education, especially in Software Engineering, AI technologies plays a pivotal role in enhancing learning experiences, personalizing education, and providing innovate solutions to both short and long-standing challenges. As techonology continues to evolve and so does the relevance and potential of AI integration, it not only helps prepares students for rapidly changing landscape in Software Engineering, but also introduces approaches to problem-solving and software development. 
 
 The main AI tool I've used for Software Engineering is ChatGPT. ChatGPT is designed to assist users in generating human-like text based on the input provided from the user and is able to efficiently solve many problems thanks to its expansive database that it uses for reference. Especially in code development, ChatGPT helped me get a gist of what could be wrong with my code, providing valuable information that I can gather and then use to solve the problem. With the use of ChatGPT, not only was I able to solve problems, but I was also able to learn why the problem came to be, how I could prevent it from happening in the future, and how it can be solved. AI tools are amibigous in giving the user both the answer and an explanation. The integration of AI in education in particular courses such as Software Engineering is a promising avenue for fostering innovation and preparing students for the dynamic fields of software development. The use of AI tools such as ChatGPT and other relevant technologies can enhance the learning journey for everyone.
  
 
-## Personal Experience with AI <img width="200px" class="rounded float-start pe-4" src="../img/difficulty/javascript.jpg">
+## Personal Experience with AI <img width="200px" class="rounded float-start pe-4" src="../img/difficulty/real-ai.jpg">
 1. Experience WODs e.g. E18
 - I have not used any AI tools to do the experience WODS. I thought it was important, especially for the experience WODS to learn and answer on my own.
 2. In-class Practice WODs
@@ -47,7 +47,7 @@ The main AI tool I've used for Software Engineering is ChatGPT. ChatGPT is desig
 14. Other uses in ICS 314 not listed
 - I would use ChatGPT for many miscallenous things such as "Create a list of 10 things I need that are essential for traveling?" or "What are the pros and cons of both Arrays and linked lists?" or "Whats the difference between whey protein and whey isolate?". ChatGPT is such an invaluable resource that provide solutions to many different things that would make life more convenient.
 
-## Impact on Learning and Understanding <img width="200px" class="rounded float-start pe-4" src="../img/difficulty/athletic.jpg">
+## Impact on Learning and Understanding <img width="200px" class="rounded float-start pe-4" src="../img/difficulty/brain.jpg">
 I've only started using AI tools this year to this degree of use and it showed very efficient results. The incorporation of AI has significantly impacted comprehension, skill development, and problem-solving abilities in my understanding of software engineering. AI technologies have enhanced comprehension by providing real-time explanations and examples, aiding learners in understanding complex concepts. Skill development benefits from AI-driven personalized learning paths and adaptive assessments, accelerating the learning process. Moreover, AI facilitates problem-solving by offering tools for automated testing and debugging, contributing to more efficient and informed decision-making. While AI has enhanced my understanding, there is a challenge in ensuring learners maintain an active role in their education, using AI as a supplementary tool rather than a replacement for hands-on experience and critical thinking. I do not rely solely on AI tools, but I believe that balancing the integration of AI with traditional learning methods is crucial for a comprehensive and effective educational experience in software engineering.
 
 ## Practical Applications <img width="200px" class="rounded float-start pe-4" src="../img/difficulty/athletic.jpg">
