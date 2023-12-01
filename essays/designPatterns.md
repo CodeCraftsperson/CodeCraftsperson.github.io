@@ -21,8 +21,3 @@ There are a quite a few instances that occurred during my code sessions where I 
 ## A lake is more beautiful than the ocean <img width="200px" class="rounded float-start pe-4" src="../img/difficulty/lake.jpg">
 
 Although design patterns prove beneficial, they should not be treated as absolute doctrine in software development. Misapplication in inappropriate scenarios can potentially impede progress rather than assist. Consider design patterns as tools and deploy them when relevant, avoiding their use for the sake of conformity. They are best employed when seeking solutions to specific problems. If you sense aspects of your code could benefit from simplification or enhancement, exploring and using various design patterns would prove beneficial if they offer viable solutions to the challenges you're encountering. Remember, just as too much rain can flood a river, excess of anything can be overwhelming. Be selective in your design patterns and you'll find that this lake you made is more beautiful than any ocean.
-
-Design patterns in itself 
-
-## Javascript is worth learning <img width="200px" class="rounded float-start pe-4" src="../img/difficulty/javascript.jpg">
-
