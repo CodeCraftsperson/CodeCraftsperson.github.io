@@ -1,16 +1,16 @@
 ---
 layout: essay
 type: essay
-title: "Dancing with a programming language?"
+title: "The Pattern of Design Patterns"
 # All dates must be YYYY-MM-DD format!
-date: 2023-08-30
+date: 2023-11-30
 published: true
 labels:
   - Software Engineering
   - Design Patterns
 ---
 
-## Designs patterns and dance choreograph are one in the same <img width="200px" class="rounded float-start pe-4" src="../img/difficulty/ballerinadancing.jpg">
+## Design patterns and dance choreographies are one in the same <img width="200px" class="rounded float-start pe-4" src="../img/difficulty/ballerinadancing.jpg">
 
 Design patterns dance onto the stage as choreographed routines in the symphony of software engineering, gracefully handling recurring problems with the elegance of a well-practiced ballet. These patterns are like well-seasoned dishes, offering a secret sauce for creating code that is not only functional but also enjoyable to maintain and grow. Consider them architectural blueprints, whispering tried-and-true answers into the ears of developers, producing a harmonious tune of flexibility and adaptability. They're the seasoned storytellers of code, offering tales of best practices and tried-and-true tactics, each pattern a character in the growing drama of software design. While these patterns offer a symphony of benefits, the virtuoso developer must wield them with care, conducting a performance tailored to the unique nuances of each project to avoid turning the codebase into a cacophony of unnecessary complexity. Such patterns are meant to be used, so then I chose to act.
 
