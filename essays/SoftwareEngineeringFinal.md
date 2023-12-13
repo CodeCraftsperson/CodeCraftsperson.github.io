@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "The difficult things will always be difficult"
+title: "The learning doesen't end here"
 # All dates must be YYYY-MM-DD format!
 date: 2023-12-12
 published: true
