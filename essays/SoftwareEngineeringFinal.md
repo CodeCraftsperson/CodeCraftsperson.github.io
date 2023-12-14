@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "The learning doesen't end here"
+title: "The character development doesn't end here"
 # All dates must be YYYY-MM-DD format!
 date: 2023-12-12
 published: true
