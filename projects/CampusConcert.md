@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/micromouse/genshinimpactThumbnail.jpg
+image: img/difficulty/CC-createconcert.png
 title: "Campus Concert"
 date: 2023
 published: true
