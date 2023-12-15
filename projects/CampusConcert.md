@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/difficulty/CC-createconcert.png
+image: img/difficulty/concert.png
 title: "Campus Concert"
 date: 2023
 published: true
