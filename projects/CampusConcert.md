@@ -8,7 +8,7 @@ published: true
 labels:
   - Front-End development
   - Teamwork
-  - Project
+  - Final Project
 summary: "A web-application that connects artists and musicians on Campus"
 ---
 
