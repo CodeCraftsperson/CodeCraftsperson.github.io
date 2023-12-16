@@ -1,0 +1,66 @@
+{
+  "basics": {
+    "name": "Gerald Huff",
+    "label": "Student",
+    "picture": "https://avatars.githubusercontent.com/u/66655062?s=400&u=fcd7e2b59016064acc7c6c8d777e961a39e8e2b8&v=4",
+    "email": "geraldh@hawaii.edu",
+    "phone": "808-384-8765",
+    "website": "https://CodeCraftsperson.github.io",
+    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii at Manoa. I expect to graduate in Fall, 2024.",
+    "location": { "address": "91-974 Awawalei Pl.", "postalCode": "96706", "city": "Ewa Beach", "countryCode": "USA", "region": "Hawaii" },
+    "profiles": [
+      { "network": "github", "username": "CodeCraftsperson", "url": "http://github.com/CodeCraftsperson" },
+      { "network": "linkedin", "username": "Gerald Matthew Huff", "url": "http://linkedin.com/in/gerald-matthew-huff-344469272/" },
+    ]
+  },
+  "interests": [
+    { "name": "Web designing" },
+    { "name": "Software Engineering" },
+    { "name": "Video games" },
+    { "name": "Gym" }
+  ],
+  "skills": [
+    {
+      "name": "Languages and Frameworks",
+      "keywords": [ "C", "C++", "Java", "Javascript", "Vue.js", "Html", "CSS" ]
+    },
+    {
+      "name": "Toolsets/OS",
+      "keywords": [ "MacOS", "Git/GitHub"]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Hawaii at Manoa, Honolulu, HI",
+      "area": "Computer Science (expected Fall, 2024)",
+      "studyType": "B.S.",
+      "startDate": "2022-08-21",
+      "endDate": "Present",
+      "courses": [
+      ]
+    }
+  ],
+  "work": [
+    {
+      "company": "L&L Hawaiian Barbecue",
+      "position": "Financial Transactions clerk",
+      "website": "",
+      "startDate": "2017-11-17",
+      "endDate": "2021-06-29",
+      "summary": "Handled financial transactions, Order taker and disputer, handling phone calls",
+    },
+  ],
+  "awards": [
+    {
+      "title": "Cum laude graduate",
+      "date": "2017",
+      "awarder": "James Campbell High School",
+      "summary": "Title awarded to graduating seniors who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
+    },
+  ],
+  "references": [
+    {
+      "name": "Available upon request"
+    }
+  ]
+}
